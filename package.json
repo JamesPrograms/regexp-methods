@@ -1,7 +1,7 @@
 {
-  "name": "reg",
+  "name": "regexp-methods",
   "version": "1.0.0",
-  "description": "reg functions",
+  "description": "common used regular expression methods",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
